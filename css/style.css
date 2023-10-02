@@ -1,0 +1,28 @@
+* {
+    font-family: 'signika', sans-serif;
+}
+
+.bg-beranda-img {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url('../img/banner-beranda.jpg');
+}
+
+.bg-about-us-img {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url('../img/banner-aboutus.jpg');
+}
+
+.bg-news-img {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+        url('../img/banner-news.jpg');
+}
+
+.bg-img {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-size {
+    background-size: cover;
+}
